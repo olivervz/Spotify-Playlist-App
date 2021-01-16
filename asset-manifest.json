@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Spotify-Playlist-App/static/css/main.a2c8ce74.chunk.css",
+    "main.js": "/Spotify-Playlist-App/static/js/main.295163a7.chunk.js",
+    "main.js.map": "/Spotify-Playlist-App/static/js/main.295163a7.chunk.js.map",
+    "runtime-main.js": "/Spotify-Playlist-App/static/js/runtime-main.f73783d7.js",
+    "runtime-main.js.map": "/Spotify-Playlist-App/static/js/runtime-main.f73783d7.js.map",
+    "static/js/2.6ce1d5a5.chunk.js": "/Spotify-Playlist-App/static/js/2.6ce1d5a5.chunk.js",
+    "static/js/2.6ce1d5a5.chunk.js.map": "/Spotify-Playlist-App/static/js/2.6ce1d5a5.chunk.js.map",
+    "index.html": "/Spotify-Playlist-App/index.html",
+    "static/css/main.a2c8ce74.chunk.css.map": "/Spotify-Playlist-App/static/css/main.a2c8ce74.chunk.css.map",
+    "static/js/2.6ce1d5a5.chunk.js.LICENSE.txt": "/Spotify-Playlist-App/static/js/2.6ce1d5a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f73783d7.js",
+    "static/js/2.6ce1d5a5.chunk.js",
+    "static/css/main.a2c8ce74.chunk.css",
+    "static/js/main.295163a7.chunk.js"
+  ]
+}
