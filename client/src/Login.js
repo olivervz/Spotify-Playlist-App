@@ -1,18 +1,29 @@
-import './Login.css';
-import React, { Component } from 'react';
+import "./Login.css";
+import "./components/Footer";
+import React, { Component } from "react";
+import Footer from "./components/Footer";
 
 function Login() {
   return (
-      <div className="container">
-          <main>
-              <h1>Login With Spotify</h1>
-                  <button 
-                      onClick={() => window.location = 'http://localhost:8888/login' }
-                      style={{padding: '20px', 'font-size': '50px', 'margin-top': '20px'}}>Sign in with spotify
-                  </button>
-          </main>
-      </div>
-  )
+    <>
+      <main>
+        <div classname="button-div">
+          <button
+            onClick={() => (window.location = "http://localhost:8888/login")}
+            className="login-button"
+            style={{
+              padding: "20px",
+              "font-size": "50px",
+              "margin-top": "20px",
+            }}
+          >
+            Sign in with spotify
+          </button>
+        </div>
+      </main>
+      <Footer />
+    </>
+  );
 }
 
 export default Login;
